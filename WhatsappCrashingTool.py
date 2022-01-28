@@ -2,7 +2,7 @@ import os
 import time
 import sys
 import webbrowser
-print('By E4CRYTP3D')
+print('WhatsApp Crashing Tool v1.0 By E4CRYTP3D')
 
 def whatsapp_crashingmain():
     if sys.platform == 'win32':
