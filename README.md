@@ -8,3 +8,9 @@ This was created using these modules
 2. time
 3. sys
 4. webbrowser
+
+How to Use.
+1. git clone https://github.com/E4crypt3d/WhatsAppCrashingTool.git
+2. cd WhatsappCrashingTool.py
+3. chmod +x WhatsappCrashingTool.py
+4. python3 WhatsappCrashingTool.py
