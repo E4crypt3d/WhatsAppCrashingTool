@@ -4,7 +4,7 @@ This is just for Educational Purpose
 WhatsApp Crashing tool using python 3
 
 This was created using these modules
-os
-time
-sys
-webbrowser
+1. os
+2. time
+3. sys
+4. webbrowser
